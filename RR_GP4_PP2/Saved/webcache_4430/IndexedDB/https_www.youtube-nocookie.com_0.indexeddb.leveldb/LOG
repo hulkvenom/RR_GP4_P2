@@ -1,0 +1,6 @@
+2024/04/20-17:30:03.851 7004 Creating DB G:/Git/RR_GP4_P2/RR_GP4_PP2/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2024/04/20-17:30:03.859 7004 Reusing MANIFEST G:/Git/RR_GP4_P2/RR_GP4_PP2/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/04/20-17:32:19.986 27f0 Level-0 table #5: started
+2024/04/20-17:32:19.996 27f0 Level-0 table #5: 1166 bytes OK
+2024/04/20-17:32:19.998 27f0 Delete type=0 #3
+2024/04/20-17:32:19.998 27f0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
